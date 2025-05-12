@@ -1,0 +1,49 @@
+21:56:29.079 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:56:29.102 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:56:29.103 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:56:29.104 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:56:29.125 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:56:29.129 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:56:29.130 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:56:29.150 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:56:29.151 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:56:29.152 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:56:29.179 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:56:29.180 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:56:29.180 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:56:29.198 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:56:29.199 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:56:29.199 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:56:29.224 [main]INFO  testcases.TC_003_LoginDDT - ****starting TC_003_LoginDDt****
+21:56:41.059 [main]INFO  testcases.TC_003_LoginDDT - ****Finished TC_003_LoginDDt****
+21:56:41.067 [main]INFO  testcases.TC_003_LoginDDT - ****starting TC_003_LoginDDt****
+21:56:52.720 [main]INFO  testcases.TC_003_LoginDDT - ****Finished TC_003_LoginDDt****
+21:56:52.726 [main]INFO  testcases.TC_003_LoginDDT - ****starting TC_003_LoginDDt****
+21:57:05.057 [main]INFO  testcases.TC_003_LoginDDT - ****Finished TC_003_LoginDDt****
+21:57:05.062 [main]INFO  testcases.TC_003_LoginDDT - ****starting TC_003_LoginDDt****
+21:57:09.509 [main]INFO  testcases.TC_003_LoginDDT - ****Finished TC_003_LoginDDt****
+21:57:09.516 [main]INFO  testcases.TC_003_LoginDDT - ****starting TC_003_LoginDDt****
+21:57:38.058 [main]INFO  testcases.TC_001_AccountRegisterPage - Staring TC_001_AccountRegisterPage
+21:57:41.060 [main]INFO  testcases.TC_001_AccountRegisterPage - clicked on MyAccount link
+21:57:41.268 [main]INFO  testcases.TC_001_AccountRegisterPage - clicked on MyRegister link
+21:57:42.868 [main]INFO  testcases.TC_001_AccountRegisterPage - Providing the customer details
+21:57:45.302 [main]INFO  testcases.TC_001_AccountRegisterPage - validating the Expected Message
+21:57:55.028 [main]INFO  testcases.TC_002_LoginTest - ****Starting loginTest****
+21:57:58.672 [main]INFO  testcases.TC_002_LoginTest - ****finshing loginTest****
+21:58:24.249 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91984\eclipse-workspace\opencard\selenium-grid.xml"
+21:58:24.821 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91984\eclipse-workspace\opencard\selenium-grid.xml
+
+21:58:30.876 [main]INFO  testcases.TC_001_AccountRegisterPage - Staring TC_001_AccountRegisterPage
+21:58:33.911 [main]INFO  testcases.TC_001_AccountRegisterPage - clicked on MyAccount link
+21:58:34.153 [main]INFO  testcases.TC_001_AccountRegisterPage - clicked on MyRegister link
+21:58:35.567 [main]INFO  testcases.TC_001_AccountRegisterPage - Providing the customer details
+21:58:37.551 [main]INFO  testcases.TC_001_AccountRegisterPage - validating the Expected Message
+21:58:42.754 [main]INFO  testcases.TC_002_LoginTest - ****Starting loginTest****
+21:58:44.804 [main]INFO  testcases.TC_002_LoginTest - ****finshing loginTest****
+21:58:54.044 [main]INFO  testcases.TC_001_AccountRegisterPage - Staring TC_001_AccountRegisterPage
+21:58:57.053 [main]INFO  testcases.TC_001_AccountRegisterPage - clicked on MyAccount link
+21:58:57.300 [main]INFO  testcases.TC_001_AccountRegisterPage - clicked on MyRegister link
+21:58:59.747 [main]INFO  testcases.TC_001_AccountRegisterPage - Providing the customer details
+21:59:01.965 [main]INFO  testcases.TC_001_AccountRegisterPage - validating the Expected Message
+21:59:06.742 [main]INFO  testcases.TC_002_LoginTest - ****Starting loginTest****
